@@ -39,7 +39,9 @@ int main() {
     printf("Digite quantos pontos turísticos essa cidade tem: \n");
     scanf(" %d", &pontosturisticos); 
 
-    printf("Digite o nome de um estado: \n");
+    //Cadastros da segunda carta
+    
+    printf("Digite o nome de um estado em forma de letras ( A - H ): \n");
     scanf(" %c", &estado2); 
 
     printf("Digite o código da cidade: \n");
