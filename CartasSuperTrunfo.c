@@ -2,6 +2,8 @@
 
 int main() {
 
+    //declarando variáveis
+
     char estado, codigodacarta[4], nomedacidade[50];
     int populacao, pontosturisticos;
     float  area, pib;
@@ -9,6 +11,8 @@ int main() {
     char estado2, codigodacarta2[4], nomedacidade2[50];
     int populacao2, pontosturisticos2;
     float  area2, pib2;
+
+    //Foi sofrido, mas deu certo. Agradeço à Deus e ao colega de turma pela ajuda.
 
     printf("Seja muito bem-vindo ao desafio do Super-Trunfo!\n");
 
