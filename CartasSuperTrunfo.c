@@ -2,6 +2,8 @@
 
 int main() {
 
+    //SUPER TRUNFO nível novato
+
     //declarando variáveis
 
     char estado, codigodacarta[4], nomedacidade[50];
