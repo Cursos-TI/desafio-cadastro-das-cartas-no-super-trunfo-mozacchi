@@ -2,16 +2,8 @@
 
 int main() {
 
-    //SUPER TRUNFO nível aventureiro
-
-    //declarando variáveis
-
-    //declarando densidade e PIBpc
-
-    //realizei alterações na visualização do programa ( estou me aperfeiçoando :D ) 
-
-    //upload para o github
-
+    //SUPER TRUNFO nível mestre 
+    
 
     char estado, codigodacarta[4], nomedacidade[50];
     int populacao, pontosturisticos;
